@@ -5,6 +5,7 @@ Version: 1.0
 */
 
 @import url("https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&family=Oswald:wght@200..700&family=Outfit:wght@100..900&family=Slackey&display=swap");
+
 header {
   justify-content: center;
 }
@@ -65,7 +66,6 @@ nav.sitemap {
   font-weight: bolder;
   font-size: medium;
   text-transform: none;
-  padding: auto;
 }
 
 a.active-site {
@@ -107,10 +107,14 @@ td {
 }
 
 ol {
-  size: 50px;
+  font-size: 50px;
   list-style: none;
   counter-reset: item;
   padding-left: 0;
+}
+
+li {
+  padding: 3%;
 }
 
 footer {
