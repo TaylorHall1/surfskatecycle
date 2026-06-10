@@ -1,5 +1,5 @@
 Website Name : SurfSkateCycle
 Author: Taylor Hall
-Version: 1.3
+Version: 1.4
 
 Website URL : https://taylorhall1.github.io/surfskatecycle/
